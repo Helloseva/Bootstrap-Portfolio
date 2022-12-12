@@ -251,6 +251,8 @@ div.social-btn div:hover,
 div.social-btn div:active {
   height: 135px;
   padding-top: 15px;
+  color: yellow;
+  box-shadow: 0 0 11px red; 
 }
 
 i {
